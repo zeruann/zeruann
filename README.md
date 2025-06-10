@@ -1,4 +1,4 @@
-## Hello There ! 👋  
+# Hello There ! 👋  
 ### I'm Hazel, an IT undergraduate at Bukidnon State University💫  
 
 ### ✨ **About Me**   
@@ -17,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
-
+<br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeruann)](https://github.com/zeruann/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruann&langs_count=8)
