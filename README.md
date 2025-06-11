@@ -4,9 +4,9 @@
 ### I'm Hazel, an IT undergraduate at Bukidnon State University💫  
 
 ### ✨ **About Me**   
-- Currently learning Front End
+- Currently learning JavaScript and Python
 - Aspiring Full stack dev 
-- Graphic designer
+- UI & UX Designer
 
 ### 🧰 **Technical Skills**  
 
@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <br/><br/>
 
 
