@@ -1,3 +1,5 @@
+![hippo](https://media1.tenor.com/m/BRlne3ra8qYAAAAC/cats-camping-camping.gif)
+
 # Hello There ! 👋  
 ### I'm Hazel, an IT undergraduate at Bukidnon State University💫  
 
