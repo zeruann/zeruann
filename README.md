@@ -1,5 +1,9 @@
 ![hippo](https://media1.tenor.com/m/BRlne3ra8qYAAAAC/cats-camping-camping.gif)
 
+<div align="left">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=zeruann.zeruann" alt="Visitor Count" />
+</div>
+
 # Hello There ! 👋  
 ### I'm Hazel, an IT undergraduate at Bukidnon State University💫  
 
@@ -24,5 +28,8 @@
 
 
 ### 📊 **Stats**  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeruann)](https://github.com/zeruann/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruann&langs_count=8)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeruann)](https://github.com/zeruann/github-readme-stats)  
+
+### ⚡ **Languages**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruann&layout=pie)](https://github.com/zeruann/github-readme-stats)
+
