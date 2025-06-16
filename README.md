@@ -4,7 +4,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zeruann.zeruann" alt="Visitor Count" />
 </div>
 
-# Hello There ! 👋  
+# Welcome ! 👋  
 ### I'm Hazel, an IT undergraduate at Bukidnon State University💫  
 
 ### ✨ **About Me**   
