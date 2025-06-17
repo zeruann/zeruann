@@ -31,6 +31,6 @@
 ### 📊 **Stats**  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeruann)](https://github.com/zeruann/github-readme-stats)  
 
-### ⚡ **Languages**  
+### ⚡ **Most Used Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruann&layout=pie)](https://github.com/zeruann/github-readme-stats)
 
