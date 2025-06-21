@@ -1,7 +1,7 @@
 <img src="https://media1.tenor.com/m/BRlne3ra8qYAAAAC/cats-camping-camping.gif" alt="" align="left" width="500px" >
 <img src="https://media.tenor.com/wCf-QCRfwmkAAAAj/%D0%BA%D0%BE%D1%82%D0%B8%D0%BA-playing-guitar.gif" alt="" align="left" width="100px">
 <img src="https://media.tenor.com/u_KVF7ScDFcAAAAi/gatotrompeta.gif" alt="" align="left" width="150px" >
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h1>Welcome ! 👋</h1>
 <h3>I'm Hazel, an IT undergraduate at Bukidnon State University💫</h3>
 
