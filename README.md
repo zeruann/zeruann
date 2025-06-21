@@ -1,4 +1,5 @@
 ![hippo](https://media1.tenor.com/m/BRlne3ra8qYAAAAC/cats-camping-camping.gif)
+![hippo](https://media.tenor.com/wCf-QCRfwmkAAAAj/%D0%BA%D0%BE%D1%82%D0%B8%D0%BA-playing-guitar.gif)
 
 <div align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zeruann.zeruann" alt="Visitor Count" />
