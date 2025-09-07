@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/u_KVF7ScDFcAAAAi/gatotrompeta.gif" alt="" align="left" width="150px" >
 <br><br><br><br><br><br><br>
 <h1>Welcome ! 👋</h1>
-<h3>I'm Hazel, an IT undergraduate at Bukidnon State University💫</h3>
+<h3>I'm Hazel, a 2nd year IT student at Bukidnon State University💫</h3>
 
 ### ✨ **About Me**   
 - Currently learning JavaScript, Python
