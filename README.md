@@ -6,7 +6,7 @@
 <h3>I'm Hazel, an IT undergraduate at Bukidnon State University💫</h3>
 
 ### ✨ **About Me**   
-- Currently learning JavaScript and Python
+- Currently learning JavaScript, Python
 - Aspiring Full stack dev 
 - UI & UX Designer
 
@@ -19,7 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
