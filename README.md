@@ -24,10 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="HTML" align="left" width="30px" style="padding-right: 10px;">
 <br/><br/>
 
-
-### 📊 **Stats**  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeruann)](https://github.com/zeruann/github-readme-stats)  
-
-### ⚡ **Most Used Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeruann&layout=pie)](https://github.com/zeruann/github-readme-stats)
-
