@@ -6,7 +6,7 @@
 <h3>I'm Hazel, a 3rd year IT student at Bukidnon State University💫</h3>
 
 ### ✨ **About Me**   
-- Currently learning JavaScript, Python
+- Currently learning JavaScript, Python, NoSQL
 - Aspiring Full stack dev 
 - UI & UX Designer
 
