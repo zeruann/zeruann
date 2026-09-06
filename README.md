@@ -7,7 +7,7 @@
 
 ### ✨ **About Me**   
 - UI & UX Designer
-- Head of Creatives (Collegianer)
+- Head of Creatives in my unversity's publication
 
 ### 🧰 **Technical Skills**  
 
