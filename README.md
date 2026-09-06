@@ -7,7 +7,7 @@
 
 ### ✨ **About Me**   
 - UI & UX Designer
-- Head of Creatives in my unversity's publication
+- Head of Creatives in my university's publication
 
 ### 🧰 **Technical Skills**  
 
