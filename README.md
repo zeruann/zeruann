@@ -7,7 +7,7 @@
 
 ### ✨ **About Me**   
 - UI & UX Designer
-- Head of Creatives in my university's student publication
+- 3+ Years of Experience
 
 ### 🧰 **Technical Skills**  
 
