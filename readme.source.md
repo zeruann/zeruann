@@ -52,3 +52,33 @@ Currently learning the MERN stack with TypeScript.
   })}
 </div>
 ```
+
+## Projects
+
+```aura width=270 height=150 link="https://github.com/zeruann/hazelportfolio" inline align=center
+<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
+  <div style={{ display: 'flex', flexDirection: 'column' }}>
+    <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>hazelportfolio</div>
+    <div style={{ display: 'flex', fontSize: 14, color: '#8A6478', marginTop: 8 }}>Portfolio</div>
+  </div>
+  <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>HTML</div>
+</div>
+```
+```aura width=270 height=150 link="https://github.com/zeruann/BayanUprisingJuanRevolution_LiwanagStudios" inline align=center
+<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
+  <div style={{ display: 'flex', flexDirection: 'column' }}>
+    <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>Bayan Uprising</div>
+    <div style={{ display: 'flex', fontSize: 14, color: '#8A6478', marginTop: 8 }}>T140</div>
+  </div>
+  <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>Java</div>
+</div>
+```
+```aura width=270 height=150 link="https://github.com/zeruann/MediFind_RocketLabs" inline align=center
+<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
+  <div style={{ display: 'flex', flexDirection: 'column' }}>
+    <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>MediFind RocketLabs</div>
+    <div style={{ display: 'flex', fontSize: 14, color: '#8A6478', marginTop: 8 }}>Team project (fork)</div>
+  </div>
+  <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>PHP</div>
+</div>
+```
