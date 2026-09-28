@@ -19,15 +19,27 @@
       {github?.user?.name || github?.user?.login || 'zeruann'}
     </div>
     <div style={{ display: 'flex', fontSize: 15, color: '#8A6478' }}>
-      Student developer who likes clean code and building small, useful things
+      {github?.user?.bio || 'Student developer who likes clean code and building small, useful things'}
     </div>
-
-
-
+    <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap' }}>
+      {((github && github.languages && github.languages.length > 0)
+        ? github.languages.slice(0, 5).map(function(l) { return l.name; })
+        : ['TypeScript', 'C#', 'Python', 'Figma']
+      ).map(function(tag, i) {
+        return (
+          <div key={tag + '-' + i} style={{
+            display: 'flex', padding: '4px 12px', borderRadius: 20,
+            backgroundColor: '#FFFFFF', border: '1px solid #F8C8DC',
+            color: '#C2467D', fontSize: 12, fontWeight: 600,
+          }}>{tag}</div>
+        );
+      })}
+    </div>
   </div>
 </div>
 ```
 
+Currently learning the MERN stack with TypeScript.
 
 ## Tech stack
 
@@ -43,7 +55,8 @@
 
 ## Projects
 
-```aura width=270 height=150 link="https://github.com/zeruann/hazelportfolio" inline align=center
+```aura width=280 height=150 link="https://github.com/zeruann/hazelportfolio" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', padding: '0 8px' }}>
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
   <div style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>hazelportfolio</div>
@@ -51,8 +64,10 @@
   </div>
   <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>HTML</div>
 </div>
+</div>
 ```
-```aura width=270 height=150 link="https://github.com/zeruann/BayanUprisingJuanRevolution_LiwanagStudios" inline align=center
+```aura width=280 height=150 link="https://github.com/zeruann/BayanUprisingJuanRevolution_LiwanagStudios" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', padding: '0 8px' }}>
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
   <div style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>Bayan Uprising</div>
@@ -60,13 +75,16 @@
   </div>
   <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>Java</div>
 </div>
+</div>
 ```
-```aura width=270 height=150 link="https://github.com/zeruann/MediFind_RocketLabs" inline align=center
+```aura width=280 height=150 link="https://github.com/zeruann/MediFind_RocketLabs" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', padding: '0 8px' }}>
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', padding: 22, borderRadius: 20, backgroundImage: 'linear-gradient(135deg, #FFFFFF 0%, #FDEAF2 100%)', border: '2px solid #F8C8DC', fontFamily: 'Inter' }}>
   <div style={{ display: 'flex', flexDirection: 'column' }}>
     <div style={{ display: 'flex', fontSize: 20, fontWeight: 800, color: '#5A2A3A' }}>MediFind RocketLabs</div>
     <div style={{ display: 'flex', fontSize: 14, color: '#8A6478', marginTop: 8 }}>Team project (fork)</div>
   </div>
   <div style={{ display: 'flex', fontSize: 14, color: '#C2467D' }}>PHP</div>
+</div>
 </div>
 ```
