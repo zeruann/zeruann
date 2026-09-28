@@ -19,27 +19,15 @@
       {github?.user?.name || github?.user?.login || 'zeruann'}
     </div>
     <div style={{ display: 'flex', fontSize: 15, color: '#8A6478' }}>
-      {github?.user?.bio || 'Student developer who likes clean code and building small, useful things'}
+      Student developer who likes clean code and building small, useful things
     </div>
-    <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap' }}>
-      {((github && github.languages && github.languages.length > 0)
-        ? github.languages.slice(0, 5).map(function(l) { return l.name; })
-        : ['TypeScript', 'C#', 'Python', 'Figma']
-      ).map(function(tag, i) {
-        return (
-          <div key={tag + '-' + i} style={{
-            display: 'flex', padding: '4px 12px', borderRadius: 20,
-            backgroundColor: '#FFFFFF', border: '1px solid #F8C8DC',
-            color: '#C2467D', fontSize: 12, fontWeight: 600,
-          }}>{tag}</div>
-        );
-      })}
-    </div>
+
+
+
   </div>
 </div>
 ```
 
-Currently learning the MERN stack with TypeScript.
 
 ## Tech stack
 
