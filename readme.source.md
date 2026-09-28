@@ -1,0 +1,54 @@
+```aura width=860 height=200
+<div style={{
+  width: '100%', height: '100%', display: 'flex', alignItems: 'center',
+  fontFamily: 'Inter', position: 'relative', overflow: 'hidden', borderRadius: 24,
+  backgroundImage: 'linear-gradient(135deg, #FFF3F8 0%, #FBDDEB 55%, #E6DCFA 100%)',
+  border: '2px solid #F8C8DC'
+}}>
+
+  <div style={{
+    position: 'absolute', left: 48, top: 52, width: 96, height: 96,
+    borderRadius: 48, backgroundImage: 'linear-gradient(135deg, #FF9FC4, #C9B6F2)',
+    display: 'flex', alignItems: 'center', justifyContent: 'center',
+  }}>
+    <img src={github?.user?.avatarUrl ?? 'https://github.com/zeruann.png'} width={88} height={88} style={{ borderRadius: 44 }} />
+  </div>
+
+  <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 168, gap: 8 }}>
+    <div style={{ display: 'flex', fontSize: 38, fontWeight: 800, color: '#5A2A3A', letterSpacing: '-1px', lineHeight: 1 }}>
+      {github?.user?.name || github?.user?.login || 'zeruann'}
+    </div>
+    <div style={{ display: 'flex', fontSize: 15, color: '#8A6478' }}>
+      {github?.user?.bio || 'Student developer who likes clean code and building small, useful things'}
+    </div>
+    <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap' }}>
+      {((github && github.languages && github.languages.length > 0)
+        ? github.languages.slice(0, 5).map(function(l) { return l.name; })
+        : ['TypeScript', 'C#', 'Python', 'Figma']
+      ).map(function(tag, i) {
+        return (
+          <div key={tag + '-' + i} style={{
+            display: 'flex', padding: '4px 12px', borderRadius: 20,
+            backgroundColor: '#FFFFFF', border: '1px solid #F8C8DC',
+            color: '#C2467D', fontSize: 12, fontWeight: 600,
+          }}>{tag}</div>
+        );
+      })}
+    </div>
+  </div>
+</div>
+```
+
+Currently learning the MERN stack with TypeScript.
+
+## Tech stack
+
+```aura width=860 height=130
+<div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', width: '100%', height: '100%', gap: 10, padding: 8, fontFamily: 'Inter' }}>
+  {['React', 'TypeScript', 'JavaScript', 'Node.js', 'MongoDB', 'C#', 'Python', 'Figma', 'HTML', 'CSS'].map(function(t) {
+    return (
+      <div key={t} style={{ display: 'flex', padding: '10px 20px', borderRadius: 999, backgroundColor: '#FFF3F8', border: '2px solid #F8C8DC', color: '#5A2A3A', fontSize: 18, fontWeight: 600 }}>{t}</div>
+    );
+  })}
+</div>
+```
