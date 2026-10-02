@@ -25,8 +25,6 @@
 </div>
 ```
 
-Currently learning the MERN stack with TypeScript.
-
 ## Tech stack
 
 ```aura width=860 height=130
